@@ -1,0 +1,1 @@
+pyuic5 -o RandomDrawUi.py -x RandomDrawUi.ui
